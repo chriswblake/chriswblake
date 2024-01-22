@@ -27,5 +27,5 @@
 </table>
 
 <p align="center">
-Want to learn more? Check out more my projects and detailed resume at [http://blake.fyi](http://blake.fyi).
+Want to learn more? Check out more my projects and detailed resume at <a href="http://blake.fyi">http://blake.fyi</a>.
 </p>
