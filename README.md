@@ -1,4 +1,30 @@
+### 👋 About Me
+I'm an enthusiastic helper and action-oriented doer that likes to see people smile because they just did something awesome! 😎
 
+At work, you'll find me building frameworks and core (software) technologies for promoting energy transition and carbon out. [#HackThePlanet](https://youtu.be/5y_SbnPx_cE?si=zVgh4UdteKI6D6cp) I'm also a *pushy* advocate for our developers at Baker Hughes and I try my best to organize our GitHub organization [@bh-ent-tech](https://github.com/bh-ent-tech). I'm also x2 pround to be the tech guru and events leader of our employee advocacy groups, LatinX. Our volunteers are the best!
+
+---
+### ✨ My Dopamine Sources (interests)
+
+✈️ Visiting new places and cultures. 15 countries so far. 2 times around this fun merry-go-round. 🌍  
+🚐 Occasional van dwelling  
+🏡 Home automation  
+☕ Finding that niche, delighfully crazy coffee shop.  
+👾 Video and IRL board games
+🙉 Learning non-programming languages (🇩🇪🧑 🇷🇺🧒 🇲🇽🧒 🇯🇵👶)
+
+---
+### 🏢💚 If you're a colleague
+I'm always happy to provide another set of eyes or fill in that gap of "you don't know what you don't know".
+
+Ask me about:  
+**🏅 Coding Best Practices** - Particularly Python, Javascript-based, and C#.  
+**📖 Documentation Best Practices** - It's like the gym. We all know it should be done, but we don't actually do it every day. Just do it! ✅  
+**🐙😺 GitHub** - Pretty much anything, like really... I probably have an API example already ready for you. 😉  
+**⚔️ Cybersecurity** - Definitely not an expert, but we should always be learning more here. Especially with AI going mainstream!
+
+---
+### And because I nerd out on coding things
 [![GitHub Streak for @chriswblake](https://github-readme-streak-stats.herokuapp.com?user=chriswblake&theme=material-palenight)](https://git.io/streak-stats)
 
 
@@ -9,4 +35,4 @@
 <a href="https://www.credly.com/badges/de80f732-4278-4a51-8bff-046fe37f8898/public_url" target="_blank"><image src="https://images.credly.com/size/340x340/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" height="100"></image></a>
 </div>
 
-Check out more my portfolio at <a href="http://blake.fyi">http://blake.fyi</a>.
+Check out my portfolio at <a href="http://blake.fyi">http://blake.fyi</a>.
