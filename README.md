@@ -1,6 +1,7 @@
 ### 👋 About Me
-<img align="right" height="200" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=chriswblake&cover_image=true&theme=default&show_offline=false&background_color=5c3597&interchange=false&bar_color=53b14f&bar_color_cover=true"></a>
-
+<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=chriswblake&redirect=true" target="_blank">
+<img align="right" height="200" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=chriswblake&cover_image=true&theme=default&show_offline=false&background_color=5c3597&interchange=false&bar_color=53b14f&bar_color_cover=true">
+</a>
 
 I'm an enthusiastic helper and action-oriented doer that likes to see people smile because they just did something awesome! 😎
 
