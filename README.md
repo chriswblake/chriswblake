@@ -1,4 +1,7 @@
 ### 👋 About Me
+<img align="right" height="200" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=chriswblake&cover_image=true&theme=default&show_offline=false&background_color=5c3597&interchange=false&bar_color=53b14f&bar_color_cover=true"></a>
+
+
 I'm an enthusiastic helper and action-oriented doer that likes to see people smile because they just did something awesome! 😎
 
 At work, you'll find me building frameworks and core (software) technologies for promoting energy transition and carbon out. [#HackThePlanet](https://youtu.be/5y_SbnPx_cE?si=zVgh4UdteKI6D6cp) I'm also a *pushy* advocate for our developers at Baker Hughes and I try my best to organize our GitHub organization [@bh-ent-tech](https://github.com/bh-ent-tech). I'm also x2 pround to be the tech guru and events leader of our employee advocacy groups, LatinX. Our volunteers are the best!
