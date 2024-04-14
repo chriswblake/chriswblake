@@ -34,10 +34,10 @@ Ask me about:
 [![GitHub Streak for @chriswblake](https://github-readme-streak-stats.herokuapp.com?user=chriswblake&theme=material-palenight)](https://git.io/streak-stats)
 
 <div>
-<a href="github-contribution-skyline/chriswblake-2020.stl"><img src="github-contribution-skyline/chriswblake-2020.gif" width="49.5%"></a>
-<a href="github-contribution-skyline/chriswblake-2021.stl"><img src="github-contribution-skyline/chriswblake-2021.gif" width="49.5%"></a>
-<a href="github-contribution-skyline/chriswblake-2022.stl"><img src="github-contribution-skyline/chriswblake-2022.gif" width="49.5%"></a>
 <a href="github-contribution-skyline/chriswblake-2023.stl"><img src="github-contribution-skyline/chriswblake-2023.gif" width="49.5%"></a>
+<a href="github-contribution-skyline/chriswblake-2022.stl"><img src="github-contribution-skyline/chriswblake-2022.gif" width="49.5%"></a>
+<a href="github-contribution-skyline/chriswblake-2021.stl"><img src="github-contribution-skyline/chriswblake-2021.gif" width="49.5%"></a>
+<a href="github-contribution-skyline/chriswblake-2020.stl"><img src="github-contribution-skyline/chriswblake-2020.gif" width="49.5%"></a>
 </div>
 
 Make your own [Skyline](https://skyline.github.com).
