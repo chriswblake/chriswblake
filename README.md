@@ -16,7 +16,7 @@ At work, you'll find me building frameworks and core (software) technologies for
 ☕ Finding that niche, delighfully crazy coffee shop.  
 👾 Video and IRL board games  
 🙉 Learning non-programming languages (🇩🇪🧑 🇷🇺🧒 🇲🇽🧒 🇯🇵👶)  
-🧘‍♂️ Yoga (2x teacher trained)
+🧘‍♂️ Yoga (2x teacher trained)  
 🕺 Ecstatic and Contemporary Dance
 
 ---
