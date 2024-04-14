@@ -19,7 +19,7 @@ At work, you'll find me building frameworks and core (software) technologies for
 
 ---
 ### 🏢💚 If you're a colleague
-I'm always happy to provide another set of eyes or fill in that gap of "you don't know what you don't know".
+I'm always happy to provide another set of eyes or fill in that gap of "you don't know what you don't know". If you need onboarded, please [message me on MS Teams](https://teams.microsoft.com/l/chat/0/0?users=christopher.blake@bakerhughes.com).
 
 Ask me about:  
 **🏅 Coding Best Practices** - Particularly Python, Javascript-based, and C#.  
