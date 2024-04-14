@@ -14,8 +14,10 @@ At work, you'll find me building frameworks and core (software) technologies for
 🚐 Occasional van dwelling  
 🏡 Home automation  
 ☕ Finding that niche, delighfully crazy coffee shop.  
-👾 Video and IRL board games
-🙉 Learning non-programming languages (🇩🇪🧑 🇷🇺🧒 🇲🇽🧒 🇯🇵👶)
+👾 Video and IRL board games  
+🙉 Learning non-programming languages (🇩🇪🧑 🇷🇺🧒 🇲🇽🧒 🇯🇵👶)  
+🧘‍♂️ Yoga (2x teacher trained)
+🕺 Ecstatic and Contemporary Dance
 
 ---
 ### 🏢💚 If you're a colleague
