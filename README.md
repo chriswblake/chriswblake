@@ -20,18 +20,15 @@ At work, you'll find me building frameworks and core (software) technologies for
 🕺 Ecstatic and Contemporary Dance
 
 ---
-### 🏢💚 If you're a colleague
+### 🏢 If you're a colleague
 I'm always happy to provide another set of eyes or fill in that gap of "you don't know what you don't know". If you need onboarded, please [message me on MS Teams](https://teams.microsoft.com/l/chat/0/0?users=christopher.blake@bakerhughes.com).
 
 Ask me about:  
 **🏅 Coding Best Practices** - Particularly Python, Javascript-based, and C#.  
 **📖 Documentation Best Practices** - It's like the gym. We all know it should be done, but we don't actually do it every day. Just do it! ✅  
-**🐙😺 GitHub** - Pretty much anything, like really... I probably have an API example already ready for you. 😉  
 **⚔️ Cybersecurity** - Definitely not an expert, but we should always be learning more here. Especially with AI going mainstream!
-
+<!-- **🧑‍🚀 GitHub** - Pretty much anything, like really... I probably have an API example already ready for you. 😉  --> 
 ---
-### And because I nerd out on coding things
-[![GitHub Streak for @chriswblake](https://github-readme-streak-stats.herokuapp.com?user=chriswblake&theme=material-palenight)](https://git.io/streak-stats)
 
 <div>
 <a href="github-contribution-skyline/chriswblake-2023.stl"><img src="github-contribution-skyline/chriswblake-2023.gif" width="49.5%"></a>
@@ -40,17 +37,27 @@ Ask me about:
 <a href="github-contribution-skyline/chriswblake-2020.stl"><img src="github-contribution-skyline/chriswblake-2020.gif" width="49.5%"></a>
 </div>
 
-Make your own [Skyline](https://skyline.github.com).
+<div align="center">
+Make your own <a href="https://skyline.github.com">Skyline</a>
+</div>
 
 ---
 
-<div>
+<div align="center">
+  <a href="https://git.io/streak-stats" target="_blank">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=chriswblake&theme=material-palenight"/>
+  </a>
+</div>
+
+<div align="center">
 <a href="https://www.credly.com/badges/67cefb2d-bc8b-4766-8989-f20f6db18842/public_url" target="_blank"><img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" height="100"></a>
 <a href="https://www.credly.com/badges/70ff55de-ca0e-4530-8d2e-81725d7dccb0/public_url" target="_blank"><img src="https://images.credly.com/size/340x340/images/34880f37-8ec8-4542-a78a-73ba6647208e/image.png" height="100"></a>
 <a href="https://www.credly.com/badges/30ac7a4b-bf9d-4c2a-8c30-8d716f7d3373/public_url" target="_blank"><img src="https://images.credly.com/size/340x340/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png" height="100"></a>
 <a href="https://www.credly.com/badges/de80f732-4278-4a51-8bff-046fe37f8898/public_url" target="_blank"><img src="https://images.credly.com/size/340x340/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" height="100"></a>
 <a href="https://www.credly.com/badges/7267b886-4c14-4532-81c9-0d5424013b9a/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/6b924fae-3cd7-4233-b012-97413c62c85d/blob" height="100"></a>
 </div>
+
+
 
 ---
 
