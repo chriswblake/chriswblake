@@ -5,7 +5,10 @@
 
 I'm an enthusiastic helper and action-oriented doer that likes to see people smile because they just did something awesome! 😎
 
-At work, you'll find me building frameworks and core (software) technologies for promoting energy transition and carbon out. [#HackThePlanet](https://youtu.be/5y_SbnPx_cE?si=zVgh4UdteKI6D6cp) I'm also a *pushy* advocate for our developers at Baker Hughes and I try my best to organize our GitHub organization [@bh-ent-tech](https://github.com/bh-ent-tech). I'm also x2 pround to be the tech guru and events leader of one of our employee advocacy groups, LatinX. Our volunteers are the best!
+At work, you'll find me developing public learning content for GitHub's Accredidation, Certification, and Enablement (ACE) team.
+That's evolving on the daily, so I'll wait a bit before I share more details!
+
+In the past, I was deep in the energy industry (15+ years). Back then, you could find me building frameworks and core (software) technologies for promoting energy transition and carbon out. [#HackThePlanet](https://youtu.be/5y_SbnPx_cE?si=zVgh4UdteKI6D6cp) I was a *pushy* advocate for the Baker Hughes developers, and I tried my best to organize a GitHub organization [@bh-ent-tech](https://github.com/bh-ent-tech). I was also heavily involved in the LatinX employee advocacy group as the tech guru and events leader. Best volunteers ever! And, great memories! 💚
 
 ---
 ### ✨ My Dopamine Sources (interests)
