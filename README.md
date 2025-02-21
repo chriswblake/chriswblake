@@ -23,15 +23,14 @@ In the past, I was deep in the energy industry (15+ years). Back then, you could
 🕺 Ecstatic and Contemporary Dance
 
 ---
-### 🏢 If you're a colleague
-I'm always happy to provide another set of eyes or fill in that gap of "you don't know what you don't know". If you need onboarded, please [message me on MS Teams](https://teams.microsoft.com/l/chat/0/0?users=christopher.blake@bakerhughes.com).
+### 🏢 If you're a current or past colleague
+I'm always happy to provide another set of eyes or fill in that gap of "you don't know what you don't know".
 
 Ask me about:  
 **🏅 Coding Best Practices** - Particularly Python, Javascript-based, and C#.  
 **📖 Documentation Best Practices** - It's like the gym. We all know it should be done, but we don't actually do it every day. Just do it! ✅  
 **⚔️ Cybersecurity** - Definitely not an expert, but we should always be learning more here. Especially with AI going mainstream!
-<!-- **🧑‍🚀 GitHub** - Pretty much anything, like really... I probably have an API example already ready for you. 😉  --> 
----
+**🧑‍🚀 GitHub** - Pretty much anything from the end-user perspective. Like really... I probably already broke that before or have an API example ready for you. 😉
 
 <div>
 <a href="github-contribution-skyline/chriswblake-2023.stl"><img src="github-contribution-skyline/chriswblake-2023.gif" width="49.5%"></a>
