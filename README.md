@@ -10,6 +10,15 @@ That's evolving on the daily, so I'll wait a bit before I share more details!
 
 In the past, I was deep in the energy industry (15+ years). Back then, you could find me building frameworks and core (software) technologies for promoting energy transition and carbon out. [#HackThePlanet](https://youtu.be/5y_SbnPx_cE?si=zVgh4UdteKI6D6cp) I was a *pushy* advocate for the Baker Hughes developers, and I tried my best to organize a GitHub organization [@bh-ent-tech](https://github.com/bh-ent-tech). I was also heavily involved in the LatinX employee advocacy group as the tech guru and events leader. Best volunteers ever! And, great memories! 💚
 
+My 5 life guidelines:
+
+1. Always be present, you might notice an opportunity.
+2. If you don't agree, try on the other perspective first.
+3. Your life is defined by your relationships, perception, and honor. In the end, it's all you have.
+4. Live life through choice, not habits.
+5. Be a stand for others; support them. Don't correct or try to teach them.
+6. Know when to break the rules. There are always exceptions.
+
 ---
 ### ✨ My Dopamine Sources (interests)
 
