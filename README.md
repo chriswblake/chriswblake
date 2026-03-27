@@ -5,10 +5,9 @@
 
 I'm an enthusiastic helper and action-oriented doer that likes to see people smile because they just did something awesome! 😎
 
-At work, you'll find me developing public learning content for GitHub's Accredidation, Certification, and Enablement (ACE) team.
-That's evolving on the daily, so I'll wait a bit before I share more details!
+At work, you'll find me developing [GitHub Skills](https://learn.github.com/skills) for the [GitHub Learn](https://github.com/learn) team.
 
-In the past, I was deep in the energy industry (15+ years). Back then, you could find me building frameworks and core (software) technologies for promoting energy transition and carbon out. [#HackThePlanet](https://youtu.be/5y_SbnPx_cE?si=zVgh4UdteKI6D6cp) I was a *pushy* advocate for the Baker Hughes developers, and I tried my best to organize a GitHub organization [@bh-ent-tech](https://github.com/bh-ent-tech). I was also heavily involved in the LatinX employee advocacy group as the tech guru and events leader. Best volunteers ever! And, great memories! 💚
+In the past, I was deep in the energy industry (15+ years). Back then, you could find me building frameworks and core (software) technologies for promoting energy transition and carbon out. [#HackThePlanet](https://youtu.be/5y_SbnPx_cE?si=zVgh4UdteKI6D6cp) I was a *pushy* advocate for the Baker Hughes developers, and I tried my best to organize a big GitHub organization. I was also heavily involved in the LatinX employee advocacy group as the tech guru and events leader. Best volunteers ever! And, great memories! 💚
 
 My 5 life guidelines:
 
@@ -33,6 +32,7 @@ My 5 life guidelines:
 
 ---
 ### 🏢 If you're a current or past colleague
+
 I'm always happy to provide another set of eyes or fill in that gap of "you don't know what you don't know".
 
 Ask me about:  
