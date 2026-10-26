@@ -67,9 +67,3 @@ Make your own <a href="https://skyline.github.com">Skyline</a>
 <a href="https://www.credly.com/badges/de80f732-4278-4a51-8bff-046fe37f8898/public_url" target="_blank"><img src="https://images.credly.com/size/340x340/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" height="100"></a>
 <a href="https://www.credly.com/badges/7267b886-4c14-4532-81c9-0d5424013b9a/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/6b924fae-3cd7-4233-b012-97413c62c85d/blob" height="100"></a>
 </div>
-
-
-
----
-
-Check out my portfolio at <a href="http://blake.fyi">http://blake.fyi</a>.
