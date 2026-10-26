@@ -5,7 +5,7 @@
 
 I'm an enthusiastic helper and action-oriented doer that likes to see people smile because they just did something awesome! 😎
 
-At work, you'll find me developing [:octocat: GitHub Verified Proficiency](https://gh.io/verified-proficiency) and occasionally helping with workshops for the [GitHub Learn](https://github.com/learn) team. I was previously technical manager for [GitHub Skills](https://learn.github.com/skills) and still occasionally create learning materials.
+At work, you'll find me developing [:octocat: GitHub Verified Proficiency](https://gh.io/verified-proficiency) and occasionally helping with workshops for the [GitHub Learn](https://learn.github.com) team. I was previously technical manager for [GitHub Skills](https://learn.github.com/skills) and still occasionally create learning materials.
 
 In the past, I was deep in the energy industry (15+ years). Back then, you could find me building frameworks and core (software) technologies for promoting energy transition and carbon out. [#HackThePlanet](https://youtu.be/5y_SbnPx_cE?si=zVgh4UdteKI6D6cp) I was a *pushy* advocate for the Baker Hughes developers, and I tried my best to organize a big GitHub organization. I was also heavily involved in the LatinX employee advocacy group as the tech guru and events leader. Best volunteers ever! And, great memories! 💚
 
